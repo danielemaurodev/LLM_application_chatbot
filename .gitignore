@@ -3,3 +3,6 @@ DS*
 DS*/
 .DS_*
 
+.venv/
+__pycache__/
+*.pyc
